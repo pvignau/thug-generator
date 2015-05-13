@@ -11,5 +11,3 @@ Did this for fun.
 ## Live demo
 
 [http://thug.vignau.fr](http://thug.vignau.fr)
-
-
