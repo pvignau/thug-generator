@@ -20,6 +20,7 @@
 		console.log('Reeeejected!', e);
 	};
 
+	// Thug Life Nigga
 	var snapshot = function() {
 		canvas.width = width;
 		canvas.height = height;
